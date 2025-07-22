@@ -89,14 +89,6 @@ youtube-clone/
 
 ---
 
-## 📸 Screenshots
-
-| Desktop Layout |
-|----------------|
-| ![Desktop](YouTube-Clone/screenshots/page-screenshot.png) |
-
----
-
 ## 📌 Notes
 
 - No backend functionality – this is a static UI clone.
