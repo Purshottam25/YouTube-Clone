@@ -72,7 +72,7 @@ youtube-clone/
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/your-username/youtube-clone.git
+   git clone https://github.com/Purshottam25/youtube-clone.git
    ```
 
 2. **Navigate to the project folder:**
