@@ -93,7 +93,7 @@ youtube-clone/
 
 | Desktop Layout |
 |----------------|
-| ![Desktop](screenshots/page-screenshot.png) |
+| ![Desktop](YouTube-Clone/screenshots/page-screenshot.png) |
 
 ---
 
