@@ -6,7 +6,7 @@ This is a static **YouTube.com clone** created using pure HTML and CSS. The proj
 
 ## 🔍 Preview
 
-![YouTube Clone Screenshot](thumbnails/thumbnail-1.webp)
+![YouTube Clone Screenshot](screenshots/page-screenshot.png)
 
 > ⚠️ This is a front-end only project – no JavaScript, APIs, or video playback functionality included.
 
@@ -93,7 +93,7 @@ youtube-clone/
 
 | Desktop Layout |
 |----------------|
-| ![Desktop](thumbnails/thumbnail-2.webp) |
+| ![Desktop](screenshots/page-screenshot.png) |
 
 ---
 
