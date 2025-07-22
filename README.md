@@ -91,9 +91,9 @@ youtube-clone/
 
 ## 📸 Screenshots
 
-| Desktop Layout | Mobile Layout |
-|----------------|----------------|
-| ![Desktop](thumbnails/thumbnail-2.webp) | ![Mobile](thumbnails/thumbnail-3.webp) |
+| Desktop Layout |
+|----------------|
+| ![Desktop](thumbnails/thumbnail-2.webp) |
 
 ---
 
